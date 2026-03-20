@@ -1,10 +1,10 @@
 # Insolvency Trends & Industry Risk Insights (Australia)
 
-## Overview
+## 🎯 Overview
 
 This project presents an interactive Power BI dashboard analysing insolvency trends across Australia using ASIC data. The dashboard demonstrates the ability to translate complex datasets into actionable insights that can support policy development, regulatory focus, and strategic decision-making.
 
-## 📸 Dashboard Preview  
+## 📊 Dashboard   
 
 ![Overview](Context.png)  
 ![Insolvency Risk Overview](Insolvency_risk_overview.png)  
@@ -12,31 +12,31 @@ This project presents an interactive Power BI dashboard analysing insolvency tre
 ![Financial & Compliance Insights](financial_analysis.png)  
 ![Financial & Structural Insights](structural_risk_analysis.png)  
 
-## Data Source
+## 📂 Data Source
 
 * Data sourced from the Australian Securities & Investments Commission (ASIC) insolvency statistics
 * Publicly available datasets covering company insolvencies across industries, states, and financial metrics
 * Data includes information on insolvency type, industry classification, assets, liabilities, and employee size (FTE)
 
-## Key Features
+## 🧠 Key Insights
 
-State-level insolvency trends analysis
+1️⃣ State-level insolvency trends analysis
 
-Industry-level risk identification
+2️⃣ Industry-level risk identification
 
-Assets vs liabilities comparison
+3️⃣ Assets vs liabilities comparison
 
-Workforce (FTE) analysis to assess company size impact
+4️⃣ Workforce (FTE) analysis to assess company size impact
 
-Misconduct trends across industries
+5️⃣ Misconduct trends across industries
 
-Cause of failure analysis
+6️⃣ Cause of failure analysis
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI, DAX, Data Modelling, Excel
 
-## End-to-end process
+## 🧱 End-to-end process
 
 Research and Data collection: Collected and transformed ASIC insolvency data to create a structured dataset suitable for analysis
 
