@@ -4,6 +4,14 @@
 
 This project presents an interactive Power BI dashboard analysing insolvency trends across Australia using ASIC data. The dashboard demonstrates the ability to translate complex datasets into actionable insights that can support policy development, regulatory focus, and strategic decision-making.
 
+## 📸 Dashboard Preview  
+
+![Overview](Context.png)  
+![Insolvency Risk Overview](Insolvency_risk_overview.png)  
+![Industry Insights](Industry_level.png)  
+![Financial & Compliance Insights](financial_analysis.png)  
+![Financial & Structural Insights](structural_risk_analysis.png)  
+
 ## Data Source
 
 * Data sourced from the Australian Securities & Investments Commission (ASIC) insolvency statistics
